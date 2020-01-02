@@ -1,0 +1,28 @@
+language: node_js
+sudo: required
+dist: trusty
+
+cache:
+  directories:
+    - node_modules
+
+before_install:
+    - npm install -g npm expo-cli
+
+stages:
+  - build
+  - test
+
+jobs:
+  include:
+    - stage: build
+      node_js:
+        - 'lts/*'
+      script:
+        - npm build
+    - stage: test
+      node_js:
+        - 'lts/*'
+      script:
+        - npm test
+
