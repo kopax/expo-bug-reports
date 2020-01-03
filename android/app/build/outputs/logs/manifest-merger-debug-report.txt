@@ -1,0 +1,480 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:expo-permissions] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/965d5457727729b16ce23bd2c470aff9/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dka/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/a56df0451820e7f422a1a26cc50761ab/AndroidManifest.xml:17:1-22:12
+MERGED from [:expo-app-loader-provider] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /home/dka/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/1ece5f37073138e134729c9156bb59db/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/b35b57b05435d2120cf77365d63915a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/544ffbba4952d5c3c66fd669b50f40f9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/11d3ed13c7202885546a19d48fe82983/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/600e7b814b702c226ceb68a82d8f135c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/fcaf42aa287e5d449467407f43f1bbc7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/6a1b8596353f70150291234b1dbc6802/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/90df733161fb80fe16faa55824af74c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/7bdaa39a99040aa6188204197e39461d/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/8f1413fd16b55dd49220a5089bf6f596/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/56c693db86be56d7e57573969c850b98/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/6b373f4cee4c826244be296701c64491/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/735ccf83e510a0e5215ff15b69a7db19/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/b4a37bab221dab9445f89c51945b4dea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/ff37ae11495c6cbc65894df840192224/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f0b17d2b3b3d2543db7adfe605288f4c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/b5da37de62ccbc45a5bafc5d698caf50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/24a4147d9d8c4c9913ba6877b5838c82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/9aed74616e2e13f78f16ab0f7ca73ad0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/63eeb9da2b368030c90d191a2c073395/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/642b2f02ba80087b6105a93fa8332094/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/a2b3f379a3c69b621e1b8e4a2c558c01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/949617b0842e3e949be0eefb8afc886c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d4bbd856b6031a5eeb52b2ae47800def/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f35496216912d29a311066302150a574/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/96b6df3c72fa0bd96ee236f5f66e3b2c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/eff104a27d13a1bcc057b529308e532c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/aea01b4f536f495dd62c88a26280d145/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f2018ac16f7d5b02a69aef0094c84765/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/79078aa0c4729f4bc5f129fbb65b5a86/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/9914d58ec6c85a7732aa249273c44a7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/b6e16f99b5ba0c96d47bb8b0268f186e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/691354e94265175d24453622fa56350a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/94593c6a359f6755f6a83593d6afdd33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1661ba677ff12917a0d72fdf016420b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/61e1cce49ef3c8c598f4e0a8c99366fa/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/1b7c804f082ccf12433ae54f5b7263ee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/f1b42fda33663c4fa4eb2cdfc2008e7e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/1410ddcaad6c7cb08a31fdf91ab902c7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/fbff31c0c487d0fe27dd960094a45de1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/c05e72c1678ab789ea3646a8731e09fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/40975f585203734e6c94508c30d45722/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/9934c5492a975dea190c73ee7e5876dc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dka/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0a46edcd8484cc785d2373caa9192750/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/ab1e129d588911d75b5317fec1691f33/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/965d5457727729b16ce23bd2c470aff9/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/965d5457727729b16ce23bd2c470aff9/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/544ffbba4952d5c3c66fd669b50f40f9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/544ffbba4952d5c3c66fd669b50f40f9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/11d3ed13c7202885546a19d48fe82983/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/11d3ed13c7202885546a19d48fe82983/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/600e7b814b702c226ceb68a82d8f135c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/600e7b814b702c226ceb68a82d8f135c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/fcaf42aa287e5d449467407f43f1bbc7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/fcaf42aa287e5d449467407f43f1bbc7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/6a1b8596353f70150291234b1dbc6802/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/6a1b8596353f70150291234b1dbc6802/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/7bdaa39a99040aa6188204197e39461d/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/7bdaa39a99040aa6188204197e39461d/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d4bbd856b6031a5eeb52b2ae47800def/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d4bbd856b6031a5eeb52b2ae47800def/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f35496216912d29a311066302150a574/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f35496216912d29a311066302150a574/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/61e1cce49ef3c8c598f4e0a8c99366fa/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/61e1cce49ef3c8c598f4e0a8c99366fa/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dka/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0a46edcd8484cc785d2373caa9192750/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dka/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0a46edcd8484cc785d2373caa9192750/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d4bbd856b6031a5eeb52b2ae47800def/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.bugreports.MainActivity
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+MERGED from [:expo-permissions] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/965d5457727729b16ce23bd2c470aff9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/965d5457727729b16ce23bd2c470aff9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dka/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/a56df0451820e7f422a1a26cc50761ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dka/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/a56df0451820e7f422a1a26cc50761ab/AndroidManifest.xml:20:5-44
+MERGED from [:expo-app-loader-provider] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/dka/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/1ece5f37073138e134729c9156bb59db/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/dka/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/1ece5f37073138e134729c9156bb59db/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/b35b57b05435d2120cf77365d63915a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/b35b57b05435d2120cf77365d63915a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/544ffbba4952d5c3c66fd669b50f40f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/544ffbba4952d5c3c66fd669b50f40f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/11d3ed13c7202885546a19d48fe82983/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/11d3ed13c7202885546a19d48fe82983/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/600e7b814b702c226ceb68a82d8f135c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/600e7b814b702c226ceb68a82d8f135c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/fcaf42aa287e5d449467407f43f1bbc7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/fcaf42aa287e5d449467407f43f1bbc7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/6a1b8596353f70150291234b1dbc6802/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/6a1b8596353f70150291234b1dbc6802/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/90df733161fb80fe16faa55824af74c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/90df733161fb80fe16faa55824af74c8/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/7bdaa39a99040aa6188204197e39461d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/7bdaa39a99040aa6188204197e39461d/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/8f1413fd16b55dd49220a5089bf6f596/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/8f1413fd16b55dd49220a5089bf6f596/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/56c693db86be56d7e57573969c850b98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/56c693db86be56d7e57573969c850b98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/6b373f4cee4c826244be296701c64491/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/6b373f4cee4c826244be296701c64491/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/735ccf83e510a0e5215ff15b69a7db19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/735ccf83e510a0e5215ff15b69a7db19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/b4a37bab221dab9445f89c51945b4dea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/b4a37bab221dab9445f89c51945b4dea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/ff37ae11495c6cbc65894df840192224/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/ff37ae11495c6cbc65894df840192224/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f0b17d2b3b3d2543db7adfe605288f4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f0b17d2b3b3d2543db7adfe605288f4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/b5da37de62ccbc45a5bafc5d698caf50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/b5da37de62ccbc45a5bafc5d698caf50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/24a4147d9d8c4c9913ba6877b5838c82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/24a4147d9d8c4c9913ba6877b5838c82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/9aed74616e2e13f78f16ab0f7ca73ad0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/9aed74616e2e13f78f16ab0f7ca73ad0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/63eeb9da2b368030c90d191a2c073395/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/63eeb9da2b368030c90d191a2c073395/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/642b2f02ba80087b6105a93fa8332094/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/642b2f02ba80087b6105a93fa8332094/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/a2b3f379a3c69b621e1b8e4a2c558c01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/a2b3f379a3c69b621e1b8e4a2c558c01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/949617b0842e3e949be0eefb8afc886c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/949617b0842e3e949be0eefb8afc886c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d4bbd856b6031a5eeb52b2ae47800def/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d4bbd856b6031a5eeb52b2ae47800def/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f35496216912d29a311066302150a574/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f35496216912d29a311066302150a574/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/96b6df3c72fa0bd96ee236f5f66e3b2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/96b6df3c72fa0bd96ee236f5f66e3b2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/eff104a27d13a1bcc057b529308e532c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/eff104a27d13a1bcc057b529308e532c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/aea01b4f536f495dd62c88a26280d145/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/aea01b4f536f495dd62c88a26280d145/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f2018ac16f7d5b02a69aef0094c84765/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f2018ac16f7d5b02a69aef0094c84765/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/79078aa0c4729f4bc5f129fbb65b5a86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/79078aa0c4729f4bc5f129fbb65b5a86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/9914d58ec6c85a7732aa249273c44a7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/9914d58ec6c85a7732aa249273c44a7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/b6e16f99b5ba0c96d47bb8b0268f186e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/b6e16f99b5ba0c96d47bb8b0268f186e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/691354e94265175d24453622fa56350a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/691354e94265175d24453622fa56350a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/94593c6a359f6755f6a83593d6afdd33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/94593c6a359f6755f6a83593d6afdd33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1661ba677ff12917a0d72fdf016420b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1661ba677ff12917a0d72fdf016420b9/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/61e1cce49ef3c8c598f4e0a8c99366fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/61e1cce49ef3c8c598f4e0a8c99366fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/1b7c804f082ccf12433ae54f5b7263ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/1b7c804f082ccf12433ae54f5b7263ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/f1b42fda33663c4fa4eb2cdfc2008e7e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/f1b42fda33663c4fa4eb2cdfc2008e7e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/1410ddcaad6c7cb08a31fdf91ab902c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/1410ddcaad6c7cb08a31fdf91ab902c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/fbff31c0c487d0fe27dd960094a45de1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/fbff31c0c487d0fe27dd960094a45de1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/c05e72c1678ab789ea3646a8731e09fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/c05e72c1678ab789ea3646a8731e09fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/40975f585203734e6c94508c30d45722/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/40975f585203734e6c94508c30d45722/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/9934c5492a975dea190c73ee7e5876dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/9934c5492a975dea190c73ee7e5876dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dka/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0a46edcd8484cc785d2373caa9192750/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dka/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0a46edcd8484cc785d2373caa9192750/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/ab1e129d588911d75b5317fec1691f33/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/ab1e129d588911d75b5317fec1691f33/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dka/workspace/github.com/kopax/expo/bug-reports/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /home/dka/workspace/github.com/kopax/expo/bug-reports/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/11d3ed13c7202885546a19d48fe82983/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/11d3ed13c7202885546a19d48fe82983/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/11d3ed13c7202885546a19d48fe82983/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/11d3ed13c7202885546a19d48fe82983/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/6a1b8596353f70150291234b1dbc6802/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/6a1b8596353f70150291234b1dbc6802/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/6a1b8596353f70150291234b1dbc6802/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/dka/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/45bac502b3a5ff02ef3d95db95f4f5cb/AndroidManifest.xml:26:13-120
