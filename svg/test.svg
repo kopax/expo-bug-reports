@@ -1,3 +1,25 @@
-  <svg height="100%" width="100%">
-    <rect fill="lime" width="100%" height="100%" />
-  </svg>
+<svg id="marker" width="144" height="219" viewBox="0 0 144 219" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="grad" x1="0" y1="0" x2="170" y2="0">
+            <stop offset="0" stopColor="rgb(255,255,0)" stopOpacity="0" />
+            <stop offset="1" stopColor="red" stopOpacity="1" />
+        </linearGradient>
+    </defs>
+    <ellipse cx="150" cy="75" rx="85" ry="55" fill="url(#grad)" />
+
+    <path opacity="0.47"
+          d="M15.6606 128.224L79.6372 219L144 129.84L120.158 107.533C111.661 121.269 96.4916 130.402 79.1456 130.402C52.5296 130.402 30.9349 108.797 30.9349 82.1689C30.9349 55.5404 52.5296 33.9355 79.1456 33.9355C92.6642 33.9355 104.884 39.5212 113.627 48.4793L137.925 24.2748C123.353 9.30943 102.988 0 80.4097 0C35.9912 0 0 36.0082 0 80.4475C0 98.3638 5.82882 114.875 15.7308 128.224H15.6606Z"
+          fill="white" />
+    <g transform="translate(-16,-13) scale(1.9)">
+        <path fill="#fff" d="M73,50c0-12.7-10.3-23-23-23S27,37.3,27,50 M30.9,50c0-10.5,8.5-19.1,19.1-19.1S69.1,39.5,69.1,50">
+            <animateTransform
+                    attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    dur="1s"
+                    from="0 50 50"
+                    to="360 50 50"
+                    repeatCount="indefinite" />
+        </path>
+    </g>
+</svg>

@@ -3,15 +3,10 @@ import React from 'react';
 import { Platform } from 'react-native';
 import Logo from '..';
 import renderer from 'react-test-renderer';
+import SvgMock from '../../__mocks__/svgMock';
 
 describe(`Logo is tested on Platform: ${Platform.OS}`, () => {
-  it('should not be a string', async () => {
-    expect(typeof Logo).not.toBe('string');
-  });
-  it('should not be a number', async () => {
-    expect(typeof Logo).not.toBe('number');
-  });
-  it('should be a component', async () => {
-    expect(renderer(<Logo />).toJSON().tree.children.length).toBe(1);
+  it('should be a SVG mock when imported in test', () => {
+    expect(Logo).toBe(SvgMock);
   });
 });
