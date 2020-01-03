@@ -1,11 +1,13 @@
-language: node_js
+subllanguage: node_js
 sudo: required
 dist: trusty
 cache:
   directories:
     - node_modules
 before_install:
-    - npm install -g npm expo-cli
+  - npm install -g npm expo-cli
+after_failure:
+  - cat /home/travis/.npm/_logs/*
 stages:
   - build
   - test
